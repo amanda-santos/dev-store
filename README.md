@@ -41,6 +41,7 @@ Technologies used to develop this project:
 - TypeScript
 - TailwindCSS
 - Lucide React
+- Cypress
 
 ## 🖥 Preview
 
