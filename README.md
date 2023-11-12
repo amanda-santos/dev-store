@@ -45,6 +45,10 @@ Technologies used to develop this project:
 
 ## 🖥 Preview
 
+<img width="1228" alt="image" src="https://github.com/amanda-santos/dev-store/assets/49074930/90c26865-a82d-4878-a0fa-8b515476e3af">
+<img width="1228" alt="image" src="https://github.com/amanda-santos/dev-store/assets/49074930/91f13d84-a0c8-4ba9-aa47-4feb921dc6d7">
+<img width="1262" alt="image" src="https://github.com/amanda-santos/dev-store/assets/49074930/289d1ce1-7aef-462d-9c21-a0a369f00351">
+
 Click <a href="https://dev-store-amanda-santos.vercel.app/">here</a> to see it live 📺
 
 ## ⌨ Getting started
